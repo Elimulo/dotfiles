@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = mulocher.elise@gmail.com
+	name = Elise Mulocher
